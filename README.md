@@ -1,26 +1,124 @@
-[![MasterHead](https://raw.githubusercontent.com/yash121099/yash121099/main/YashThakkarBanner.png)](https://www.linkedin.com/in/yash-thakkar-91741820b/)
-<h1 align="center">Hi 👋, I'm Yash Thakkar</h1>
-<h3 align="center">Full Stack & Software Engineer | Java, JavaScript, React, Node.js, AWS, Cloud DevOps | Efficient Frontend/Backend Optimization, Scalable Microservices, Cloud Automation</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yash121099&label=Profile%20views&color=0e75b6&style=flat" alt="yash121099" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Kubernetes, Monitoring using Prometheus & Grafana**
-
-- 💬 Ask me about **Full Stack Development and Problem Solving**
-
-- 📫 How to reach me **thakkaryash1210@gmail.com**
-
-- 📄 Resume [https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing](https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yash-thakkar-91741820b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-thakkar-91741820b" height="30" width="40" /></a>
-<a href="https://instagram.com/yashthakkar1210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashthakkar1210" height="30" width="40" /></a>
+<!-- Enlarged GIF Header for Better Visibility -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/yash-thakkar-91741820b/">
+    <img src="https://raw.githubusercontent.com/yash121099/yash121099/refs/heads/main/Yash_Thakkar_Header.gif" alt="Yash Thakkar LinkedIn" style="width: 80%; max-width: 1000px; height: auto;" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<!-- Typing Animation for Introduction, Each Line Appearing Separately -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&lines=I+am+Yash+Thakkar" alt="Typing animation 1">
+</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;Software+Developer;JavaScript+%7C+React+%7C+Node.js+%7C+AWS;Scalable+Cloud+Solutions" alt="Typing animation 2">
+</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash121099&show_icons=true&locale=en&layout=compact" alt="yash121099" /></p>
+<!-- Subtitle with Custom Fade-in Effect -->
+<h3 align="center" style="animation: fadeIn 2s ease;">
+  Building Scalable Solutions for the Future | Optimizing for Performance and Reliability
+</h3>
+
+<!-- Profile Views Counter with Pulse Animation -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash121099&label=Profile%20views&color=ff1493&style=flat" alt="Profile views" /> 
+</p>
+
+---
+
+### 👨‍💼 About Me
+<div align="left">
+  <ul>
+    <li>🌱 Currently mastering <b>Kubernetes, Prometheus & Grafana</b> for monitoring</li>
+    <li>💬 Ask me about <b>Full Stack Development, Cloud Automation, and Scaling Applications</b></li>
+    <li>📫 <b>Reach me at</b>: thakkaryash1210@gmail.com | <b>Phone</b>: +1 (562) 488-6439</li>
+    <li>📄 <a href="https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing">Check out my resume</a></li>
+  </ul>
+</div>
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/yash-thakkar-91741820b" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/yashthakkar1210" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="mailto:thakkaryash1210@gmail.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+### 💼 Professional Experience
+
+#### **Software Engineer Intern - Datamac Analytics LLC** _(Jun 2023 - Sep 2023)_
+- Architected a **microservices-based** backend with **Node.js** and **Express**, improving scalability by 35% and reducing deployment time by 40%.
+- Designed RESTful APIs with **asynchronous processing** to enhance service communication and decrease response times by 25%.
+- Developed a **React.js** and **Next.js** front-end with **Redux** for state management, achieving a 30% reduction in load times and improved UX.
+- Built a **CI/CD pipeline** using **GitHub Actions** and **Docker**, enabling consistent and rapid releases, reducing deployment time by 50%.
+- Configured **AWS EC2** and **S3** with Auto Scaling Groups to manage traffic peaks, resulting in zero downtime and a 25% reduction in cloud costs.
+- Optimized SQL database indexing, reducing average query response time by 40% and enhancing system efficiency.
+
+#### **Software Engineer - Qrious Tech Team LLP** _(May 2021 - Jun 2022)_
+- Developed a **Platform as a Service (PaaS)** web app using **React.js** with **Recoil** state management, boosting client-side performance by 50%.
+- Led the integration of **ServiceNow** and **Azure AD** using **Node.js cron jobs**, automating data synchronization and saving 20% in operational costs.
+- Transitioned a monolithic structure to a **microservices architecture** using **AWS Lambda** and **API Gateway**, enhancing scalability and reducing infrastructure costs by 30%.
+- Configured **Redis caching** to handle sessions, offloading database requests by 40% during peak hours.
+- Implemented **JWT authentication** for secure, tokenized user management, improving backend security and response time by 20%.
+- Created and maintained **CI/CD pipelines** with **Jenkins** and **Docker** for automated deployment, reducing release cycles by 60%.
+- Regularly conducted **code reviews** and implemented **Agile methodologies**, aligning team tasks and achieving a 95% on-time sprint completion rate.
+
+#### **Software Development Engineer Intern - Cyber Octet** _(Mar 2020 - Apr 2021)_
+- Built a cross-browser **vulnerability assessment tool** using **React** and **Node.js**, enhancing real-time monitoring and securing data for 20+ clients.
+- Developed a testing suite with **Python** and **Selenium** that reduced manual testing by 75%, covering over 150 test cases for complex user flows.
+- Established **CI/CD pipelines** with **AWS CodePipeline** and **Docker**, cutting deployment time by 60% and streamlining release cycles.
+- Integrated **Stripe APIs** for secure payment processing, using tokenization for PCI compliance, which increased transaction success rates by 20%.
+- Optimized PostgreSQL database queries, decreasing execution time by 40% through indexing and efficient query design.
+- Implemented **OAuth 2.0** for secure API endpoints, achieving a 100% API compliance rate with security audits.
+- Led sprint planning, retrospectives, and task management using **JIRA**, achieving a 95% task completion rate within deadlines.
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="AWS" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/docker.png" alt="Docker" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/graphql.png" alt="GraphQL" width="40" height="40" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash121099&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash121099&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🎉 Featured Projects
+#### **PayMaster - Finance Management Platform**
+- **Technologies**: Node.js, Express, MongoDB, React.js, Tailwind CSS, JWT, AWS
+- **Features**: Developed a secure, user-friendly backend with JWT authentication, enabling real-time updates and user insights.
+
+#### **Web Application Vulnerability Tool**
+- **Technologies**: Python, JavaScript, TypeScript, HTML, CSS, Bootstrap
+- **Features**: Built a robust tool for identifying vulnerabilities, securing data for 25+ clients, and facilitating easy threat management.
+
+---
+
+### 🔥 Fun Fact
+💡 *"An efficient code is a poem that flows seamlessly in logic."*
+
+---
+
+<!-- Original Banner at the Bottom for Consistency -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yash121099/yash121099/main/YashThakkarBanner.png" alt="Yash Thakkar Banner" width="1000" height="300" />
+</p>
