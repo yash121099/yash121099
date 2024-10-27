@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **thakkaryash1210@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing](https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing](https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
