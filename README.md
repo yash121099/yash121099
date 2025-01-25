@@ -54,31 +54,40 @@
 
 ### 💼 Professional Experience
 
-#### **Software Engineer Intern - Datamac Analytics LLC** _(Jun 2023 - Sep 2023)_
-- Architected a **microservices-based** backend with **Node.js** and **Express**, improving scalability by 35% and reducing deployment time by 40%.
-- Designed RESTful APIs with **asynchronous processing** to enhance service communication and decrease response times by 25%.
-- Developed a **React.js** and **Next.js** front-end with **Redux** for state management, achieving a 30% reduction in load times and improved UX.
-- Built a **CI/CD pipeline** using **GitHub Actions** and **Docker**, enabling consistent and rapid releases, reducing deployment time by 50%.
-- Configured **AWS EC2** and **S3** with Auto Scaling Groups to manage traffic peaks, resulting in zero downtime and a 25% reduction in cloud costs.
-- Optimized SQL database indexing, reducing average query response time by 40% and enhancing system efficiency.
+#### **Software Engineer - Datamac Analytics LLC** _(Jun 2024 - Present)_
+ • Designed and developed a microservices architecture using Node.js, TypeScript, and RESTful APIs, optimizing server performance
+ and improving loading speeds by 40% through efficient API response handling.
+ • Engineered a scalable and responsive Platform as a Service (PaaS) web application utilizing React.js and Redux, improving server
+ rendering by 50% and optimizing client-side performance.
+ • Conducted the optimization drive for SQL Database Indexing to reduce search query result time by 3.82ms average per query.
+ • Refactored JavaScript code to improve web application performance, reducing load times by 25% and enhancing user engagement with
+ smoother, more responsive interfaces.
+ • Implemented a CI/CD pipeline using AWS DevOps tools and GitHub Workflows, improving deployment efficiency by 10 hours per
+ deployment and ensuring scalability with load balancing on EC2 instances.
+ • Automated Cloud Orchestration Processes, including Docker Containerization, Kubernetes Cluster set-up, and Nginx load
+ balancing to meet customer-specific requirements, achieving a 75% reduction in ticket resolution time
 
 #### **Software Engineer - Qrious Tech Team LLP** _(May 2021 - Jun 2022)_
-- Developed a **Platform as a Service (PaaS)** web app using **React.js** with **Recoil** state management, boosting client-side performance by 50%.
-- Led the integration of **ServiceNow** and **Azure AD** using **Node.js cron jobs**, automating data synchronization and saving 20% in operational costs.
-- Transitioned a monolithic structure to a **microservices architecture** using **AWS Lambda** and **API Gateway**, enhancing scalability and reducing infrastructure costs by 30%.
-- Configured **Redis caching** to handle sessions, offloading database requests by 40% during peak hours.
-- Implemented **JWT authentication** for secure, tokenized user management, improving backend security and response time by 20%.
-- Created and maintained **CI/CD pipelines** with **Jenkins** and **Docker** for automated deployment, reducing release cycles by 60%.
-- Regularly conducted **code reviews** and implemented **Agile methodologies**, aligning team tasks and achieving a 95% on-time sprint completion rate.
+ • Developed and optimized enterprise backend systems using .NET C#, integrating APIs via Node.js, and implementing RESTful APIs
+ to reduce system latency by 30%, improving user response times.
+ • Developed GitHub Actions workflows to build and push Docker images to Azure architecture, streamlining deployment processes
+ and saving 4–6 hours per release cycle.
+ • Worked on the cron Jobs in Node.js architecture to integrate into the current system through various third-party Integrations (Service Now, Active Directories of Azure), saving time and money by 20% compared 
+   to manual client data scraping.
+ • Implemented full-stack solutions, ensuring seamless integration across server-side(Node.js) and client-side(React.js).
+ • Implemented automated testing using Jest and Mocha, supplemented by code reviews with SonarQube, reducing production bugs by
+ 20% and maintaining high code quality.
+ • Collaborated across SDLC phases, ensuring Agile-aligned delivery and reducing deployment timelines by leveraging Scrum practices
+ in requirements gathering, development, testing, and deployment.
 
 #### **Software Development Engineer Intern - Cyber Octet** _(Mar 2020 - Apr 2021)_
-- Built a cross-browser **vulnerability assessment tool** using **React** and **Node.js**, enhancing real-time monitoring and securing data for 20+ clients.
-- Developed a testing suite with **Python** and **Selenium** that reduced manual testing by 75%, covering over 150 test cases for complex user flows.
-- Established **CI/CD pipelines** with **AWS CodePipeline** and **Docker**, cutting deployment time by 60% and streamlining release cycles.
-- Integrated **Stripe APIs** for secure payment processing, using tokenization for PCI compliance, which increased transaction success rates by 20%.
-- Optimized PostgreSQL database queries, decreasing execution time by 40% through indexing and efficient query design.
-- Implemented **OAuth 2.0** for secure API endpoints, achieving a 100% API compliance rate with security audits.
-- Led sprint planning, retrospectives, and task management using **JIRA**, achieving a 95% task completion rate within deadlines.
+ • Created an automation testing suite with Python and Selenium, simulating complex user flows to cover over 150 test cases, reducing
+ manual testing by 75%.
+ • Built a responsive tool for vulnerability assessment using HTML, CSS3, and JavaScript, ensuring cross-browser compatibility.
+ • Developed a dynamic form validation module using Angular and RxJS, streamlining error handling and enhancing data integrity by 25%,
+ ensuring seamless integration with existing automation tools
+ • Migrated manual logs collection to cloud-based, slashing per-person effort by 3 hours, and amplifying efficiency.
+ • Worked with developers, enhancing team skills in debugging and agile methodologies, and provided documentation for new features.
 
 ---
 
