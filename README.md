@@ -1,7 +1,7 @@
 <!-- Enlarged GIF Header for Better Visibility -->
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-thakkar-91741820b/">
-    <img src="https://raw.githubusercontent.com/yash121099/yash121099/refs/heads/main/Yash_Thakkar_Header.gif" alt="Yash Thakkar LinkedIn" style="width: 80%; max-width: 1000px; height: auto;" />
+    <img src="https://raw.githubusercontent.com/yash121099/yash121099/refs/heads/main/Yash_Thakkar_Header_new.gif" alt="Yash Thakkar LinkedIn" style="width: 80%; max-width: 1000px; height: auto;" />
   </a>
 </p>
 
