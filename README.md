@@ -128,6 +128,31 @@
 ---
 
 <!-- Original Banner at the Bottom for Consistency -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yash121099/yash121099/main/YashThakkarBanner.png" alt="Yash Thakkar Banner" width="1000" height="300" />
-</p>
+<style>
+  img.responsive-banner {
+    width: 100%;
+    height: auto;
+    max-width: 1000px; /* Set the maximum width for larger screens */
+  }
+
+  /* Fine-tune for smaller screens */
+  @media (max-width: 768px) {
+    img.responsive-banner {
+      max-width: 90%; /* Slightly smaller on tablets */
+    }
+  }
+
+  @media (max-width: 480px) {
+    img.responsive-banner {
+      max-width: 100%; /* Full-width on mobile */
+    }
+  }
+</style>
+
+<!-- Use the class in your image tag -->
+<img
+  src="https://raw.githubusercontent.com/yash121099/yash121099/main/YashThakkarBanner.png"
+  alt="Yash Thakkar Banner"
+  class="responsive-banner"
+/>
+
