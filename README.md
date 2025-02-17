@@ -54,19 +54,6 @@
 
 ### 💼 Professional Experience
 
-#### **Software Engineer - Datamac Analytics LLC** _(Jun 2024 - Present)_
- • Designed and developed a microservices architecture using Node.js, TypeScript, and RESTful APIs, optimizing server performance
- and improving loading speeds by 40% through efficient API response handling.
- • Engineered a scalable and responsive Platform as a Service (PaaS) web application utilizing React.js and Redux, improving server
- rendering by 50% and optimizing client-side performance.
- • Conducted the optimization drive for SQL Database Indexing to reduce search query result time by 3.82ms average per query.
- • Refactored JavaScript code to improve web application performance, reducing load times by 25% and enhancing user engagement with
- smoother, more responsive interfaces.
- • Implemented a CI/CD pipeline using AWS DevOps tools and GitHub Workflows, improving deployment efficiency by 10 hours per
- deployment and ensuring scalability with load balancing on EC2 instances.
- • Automated Cloud Orchestration Processes, including Docker Containerization, Kubernetes Cluster set-up, and Nginx load
- balancing to meet customer-specific requirements, achieving a 75% reduction in ticket resolution time
-
 #### **Software Engineer - Qrious Tech Team LLP** _(May 2021 - Jun 2022)_
  • Developed and optimized enterprise backend systems using .NET C#, integrating APIs via Node.js, and implementing RESTful APIs
  to reduce system latency by 30%, improving user response times.
