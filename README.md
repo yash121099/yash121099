@@ -54,17 +54,13 @@
 ### 💼 Professional Experience
 
 #### **Software Engineer - Qrious Tech Team LLP** _(May 2021 - Jun 2022)_
- • Developed and optimized enterprise backend systems using .NET C#, integrating APIs via Node.js, and implementing RESTful APIs
- to reduce system latency by 30%, improving user response times.
- • Developed GitHub Actions workflows to build and push Docker images to Azure architecture, streamlining deployment processes
- and saving 4–6 hours per release cycle.
- • Worked on the cron Jobs in Node.js architecture to integrate into the current system through various third-party Integrations (Service Now, Active Directories of Azure), saving time and money by 20% compared 
-   to manual client data scraping.
- • Implemented full-stack solutions, ensuring seamless integration across server-side(Node.js) and client-side(React.js).
- • Implemented automated testing using Jest and Mocha, supplemented by code reviews with SonarQube, reducing production bugs by
- 20% and maintaining high code quality.
- • Collaborated across SDLC phases, ensuring Agile-aligned delivery and reducing deployment timelines by leveraging Scrum practices
- in requirements gathering, development, testing, and deployment.
+•	Engineered back-end architecture using Node.js, TypeScript, RESTful APIs, and microservices, improving loading speeds by 40% through server optimization and faster API response times
+•	Optimized PostgreSQL database indexing, improving query performance and reducing search query time by 10ms per query.
+•	Engineered a scalable and responsive Platform as a Service (PaaS) web application utilizing React.js and Redux, improving server rendering by 50% and optimizing client-side performance.
+•	Worked on the cron Jobs in Node.js architecture to integrate into the current system through various third-party Integrations (Service- Now, Active Directories of Azure), saving time and money by 20% compared to manual client data scraping.
+•	Deployed applications on AWS, leveraging S3 for static hosting, EC2 for backend microservices, and CDN for optimized content delivery, enhancing performance, scalability, and system reliability
+•	Led debugging and performance optimization efforts, reducing average response times and strengthening application stability across microservices architecture.
+•	Implemented full-stack solutions, ensuring seamless integration across server-side (Node.js) and client-side (React.js) components.
 
 #### **Software Development Engineer Intern - Cyber Octet** _(Mar 2020 - Apr 2021)_
  • Created an automation testing suite with Python and Selenium, simulating complex user flows to cover over 150 test cases, reducing
