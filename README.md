@@ -31,7 +31,6 @@
     <li>🌱 Currently mastering <b>Kubernetes, Prometheus & Grafana</b> for monitoring</li>
     <li>💬 Ask me about <b>Full Stack Development, Cloud Automation, and Scaling Applications</b></li>
     <li>📫 <b>Reach me at</b>: thakkaryash1210@gmail.com | <b>Phone</b>: +1 (562) 488-6439</li>
-    <li>📄 <a href="https://drive.google.com/file/d/1cr8Uh8W_1aX_rAjl05ktLad6Ogck_VtV/view?usp=sharing">Check out my resume</a></li>
   </ul>
 </div>
 
@@ -39,7 +38,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yash-thakkar-91741820b" target="blank">
+  <a href="https://www.linkedin.com/in/yash1210/" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="https://instagram.com/yashthakkar1210" target="blank">
